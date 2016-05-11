@@ -1,0 +1,49 @@
+.main-top-section {
+  width: 100%;
+  height: 300px;
+  background: url("./img/main-bg.jpg") right no-repeat;
+  background-size: contain;
+}
+
+.main-header {
+  height: 50px;
+  width: 100%;
+  padding: 10px;
+  text-align: left;
+}
+
+.main-header img {
+  width: 34px;
+}
+
+.main-top-section-inner {
+  width: 50%;
+  margin-top: 30px;
+}
+
+.main-top-section-inner h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.main-top-section-inner button {
+  padding: 5px;
+  width: 200px;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+
+}
+
+.product {
+  width: 50%;
+  float: left;
+  margin-bottom: -3px;
+}
+
+
+.product img {
+  width: 100%;
+}
